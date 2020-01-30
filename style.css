@@ -4,10 +4,10 @@ h1 {
 
 /* * {
     border: solid;
-} */
+} */ 
 
 .header{
-    background-color: cadetblue;
+    background-color: blue;
     display: flex;
     justify-content: space-between;
 }
@@ -31,4 +31,8 @@ h1 {
 
 p,h2{
     text-align: center;
+}
+
+body{
+    background-color: #66c3e2;
 }
